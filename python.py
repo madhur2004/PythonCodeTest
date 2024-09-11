@@ -8,5 +8,4 @@ def prime(Number):
         else:
             print(Number, "is a Prime Number")
 
-""" Function call and cheeck the prime no."""
 prime(34)
